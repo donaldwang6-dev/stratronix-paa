@@ -1,3 +1,11 @@
+## 🇪🇺 EU AI Act 2026 + GDPR
+
+**PAA (Private Agentic AI Appliance)** — on-prem LLMs with zero cloud dependency. Designed for the EU AI Act (Regulation 2024/1689) high-risk system requirements (Annex III), transparency obligations (Art. 50), and Article 14 human oversight. Compliant with **GDPR / DSGVO / RGPD / AVG / RODO** for European enterprises.
+
+**European store**: [store.stratonix.ai](https://store.stratonix.ai)
+
+---
+
 # STRATRONIX PAA — Private Agentic AI Appliance\n\n**PAA** is a new product category: a hardware appliance that runs large language models entirely on-premise, with no cloud connection, full GDPR compliance, and a hash-chained audit log.\n\n## What this is\n\nA **1U rack-mounted device**:\n\n- 2× NVIDIA RTX 4090 (24GB VRAM each)\n- 192 GB DDR5 ECC RAM\n- 4 TB NVMe SSD\n- 2× 10 GbE network\n- 800W redundant PSU\n\nRuns a **70B-parameter LLM (Llama-3 70B AWQ INT4)** at 148 tokens/sec.\n\n## What it isn't\n\n- ✗ Not a cloud AI service\n- ✗ Not "self-hosted DIY" (it's pre-configured)\n- ✗ Not vendor-locked (BSD-3 OS)\n\n## What it solves\n\nFor enterprises that handle sensitive data — legal, healthcare, finance, manufacturing, government — cloud AI is a non-starter. **PAA** is the answer: privacy, sovereignty, plug-and-play convenience.\n\n## Pricing\n\n| Tier | Volume | Unit Price |\n|---|---|---|\n| Retail | 1 | $399 |\n| Volume | 10-49 | $332 |\n| Volume | 50-99 | $295 |\n| Volume | 100+ | $258 |\n\n🛒 [Order now](https://store.stratonix.ai/products/sta-100-paa-standard)\n\n
 ---
 
