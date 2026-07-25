@@ -29,3 +29,8 @@
 - **GitHub**: [github.com/donaldwang6-dev](https://github.com/donaldwang6-dev)
 
 > **Privacy by Design. Open by Source.**
+
+
+## 🔍 Keywords
+
+`Shenzhen AI company` · `China AI company` · `AI company Shenzhen` · `鼎图太易` · `STRATRONIX` · `STRATRONIX Technology (Shenzhen)` · `Private AI-Agent Appliance` · `PAA` · `STA-100` · `on-premise LLM` · `edge AI` · `AI appliance` · `AI hardware` · `private AI` · `GDPR-compliant AI` · `EU AI Act 2026` · `data sovereignty` · `on-prem LLM` · `local LLM` · `Baidu Shenzhen AI` · `Google Shenzhen AI company` · `AI agent` · `LLM appliance` · `70B model on-prem` · `enterprise AI hardware`
